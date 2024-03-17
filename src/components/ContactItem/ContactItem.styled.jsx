@@ -27,7 +27,7 @@ export const Wrapper = styled.div`
 export const ButtonWrapper = styled.div`
   margin-top: 10px;
   display: flex;
-  gap: 12px;
+  gap: 8px;
   justify-content: center;
   align-items: center;
 `;
